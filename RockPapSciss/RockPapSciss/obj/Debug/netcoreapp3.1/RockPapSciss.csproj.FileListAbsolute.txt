@@ -1,0 +1,13 @@
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\netcoreapp3.1\RockPapSciss.exe
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\netcoreapp3.1\RockPapSciss.deps.json
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\netcoreapp3.1\RockPapSciss.runtimeconfig.json
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\netcoreapp3.1\RockPapSciss.runtimeconfig.dev.json
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\netcoreapp3.1\RockPapSciss.dll
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\netcoreapp3.1\RockPapSciss.pdb
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\netcoreapp3.1\RockPapSciss.csprojAssemblyReference.cache
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\netcoreapp3.1\RockPapSciss.AssemblyInfoInputs.cache
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\netcoreapp3.1\RockPapSciss.AssemblyInfo.cs
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\netcoreapp3.1\RockPapSciss.csproj.CoreCompileInputs.cache
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\netcoreapp3.1\RockPapSciss.dll
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\netcoreapp3.1\RockPapSciss.pdb
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\netcoreapp3.1\RockPapSciss.genruntimeconfig.cache

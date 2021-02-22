@@ -4,22 +4,22 @@
 
   public class test1
   {
-    public string name { get; set; }
+    public string Name { get; set; }
     private string Id { get; set; }
-    public decimal money { get; set; }
+    public decimal Money { get; set; }
 
     public test1(string name, string id, decimal money){
-        name = this.name;
-        id = this.id;
-        money = this.money;
+        Name = name; 
+        Id = id;
+        Money = money;
     }
   
 
     public void drainAccount(test1 person)
     {
-        if(person.name == "Nick")
+        if(person.Name == "Nick")
         {
-            person.money = 0;
+            person.Money = 0;
 
         }
     }

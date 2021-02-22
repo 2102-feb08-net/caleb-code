@@ -1,0 +1,15 @@
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\net5.0\RockPapSciss.exe
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\net5.0\RockPapSciss.deps.json
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\net5.0\RockPapSciss.runtimeconfig.json
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\net5.0\RockPapSciss.runtimeconfig.dev.json
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\net5.0\RockPapSciss.dll
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\net5.0\ref\RockPapSciss.dll
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\bin\Debug\net5.0\RockPapSciss.pdb
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\net5.0\RockPapSciss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\net5.0\RockPapSciss.AssemblyInfoInputs.cache
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\net5.0\RockPapSciss.AssemblyInfo.cs
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\net5.0\RockPapSciss.csproj.CoreCompileInputs.cache
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\net5.0\RockPapSciss.dll
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\net5.0\ref\RockPapSciss.dll
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\net5.0\RockPapSciss.pdb
+C:\Users\piran\revature\caleb-code\RockPapSciss\RockPapSciss\obj\Debug\net5.0\RockPapSciss.genruntimeconfig.cache
