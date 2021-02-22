@@ -46,6 +46,12 @@ INSERT INTO Orders(ID, ProductID, CustomerID) VALUES
 	(3, 3, 3)
 
 
-SELECT * FROM Customers
-WHERE Customers.FirstName = 'Tina'
-AND Customers.LastName = 'Smith'
+SELECT * FROM Orders
+WHERE Orders.CustomerID = '3'
+
+
+
+
+UPDATE Products
+ SET Price = 250.00
+ WHERE Name = 'Iphone';
