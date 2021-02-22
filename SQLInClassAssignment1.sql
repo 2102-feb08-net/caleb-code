@@ -49,6 +49,10 @@ INSERT INTO Orders(ID, ProductID, CustomerID) VALUES
 SELECT * FROM Orders
 WHERE Orders.CustomerID = '3'
 
+SELECT (Count(Orders.ProductID)) As prods FROM Orders
+WHERE Orders.ProductID = '3'
+
+
 
 
 
